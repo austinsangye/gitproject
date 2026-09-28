@@ -36,6 +36,6 @@ variable "tags" {
   default = {
     Environment = "dev"
     Project     = "terraform-demo"
-    Owner       = "platform-teamsssaagf"
+    Owner       = "platform-teamssssssaagf"
   }
 }
